@@ -1,0 +1,13 @@
+﻿<Page
+    x:Class="HelloWorld_blank_.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloWorld_blank_"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="407.644" Width="673.753">
+
+    <Grid Background="#FF626465" Margin="0,0,-0.333,-0.333">
+        <Button x:Name="button" Content="Chargement" HorizontalAlignment="Left" Margin="375,305,0,0" VerticalAlignment="Top" Click="button_Click"/>
+    </Grid>
+</Page>
