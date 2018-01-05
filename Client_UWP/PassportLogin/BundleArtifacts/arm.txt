@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Nabil\Desktop\v1\PassportLogin\bin\ARM\Debug\PassportLogin_1.0.0.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Nabil\Desktop\v1\PassportLogin\AppPackages\PassportLogin_1.0.0.0_Debug_Test\PassportLogin_1.0.0.0_ARM_Debug.appxsym

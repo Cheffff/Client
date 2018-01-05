@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-IQ9U3D2</Machine>
+    <WindowsUser>Nabil</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>9f63445f-1b5f-4a39-b512-5628b3960b1d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MeMyself</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>868E97045A4096856C3D1DE2D05A43D42EF25552880110E21FD62480FF4F20B0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9f63445f-1b5f-4a39-b512-5628b3960b1d_1.0.0.0_x64__v82wmgefjhmpr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9f63445f-1b5f-4a39-b512-5628b3960b1d_v82wmgefjhmpr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9f63445f-1b5f-4a39-b512-5628b3960b1d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MeMyself</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-22T12:44:45.605</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\2018_logo_VirtualDeck .png">
+      <PackagePath>Assets\2018_logo_VirtualDeck .png</PackagePath>
+      <Modified>2017-07-01T19:03:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\585e4bf3cb11b227491c339a.png">
+      <PackagePath>Assets\585e4bf3cb11b227491c339a.png</PackagePath>
+      <Modified>2017-12-16T23:51:19.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\car.jpg">
+      <PackagePath>Assets\car.jpg</PackagePath>
+      <Modified>2017-07-01T19:03:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\carte.png">
+      <PackagePath>Assets\carte.png</PackagePath>
+      <Modified>2017-07-01T19:03:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\chess_image.jpg">
+      <PackagePath>Assets\chess_image.jpg</PackagePath>
+      <Modified>2017-07-01T19:03:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\echec.png">
+      <PackagePath>Assets\echec.png</PackagePath>
+      <Modified>2017-07-01T19:03:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\icojam_blue_bits_warning-0.png">
+      <PackagePath>Assets\icojam_blue_bits_warning-0.png</PackagePath>
+      <Modified>2017-07-16T00:27:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\logo_eip.png">
+      <PackagePath>Assets\logo_eip.png</PackagePath>
+      <Modified>2017-12-14T22:32:01.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-30T12:18:10.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2017-11-20T15:27:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\HTML\test.html">
+      <PackagePath>HTML\test.html</PackagePath>
+      <Modified>2017-12-15T01:21:05.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\PassportLogin.dll">
+      <PackagePath>PassportLogin.dll</PackagePath>
+      <Modified>2017-12-22T12:44:42.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\PassportLogin.exe">
+      <PackagePath>PassportLogin.exe</PackagePath>
+      <Modified>2017-12-22T12:44:45.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\PassportLogin.pdb">
+      <PackagePath>PassportLogin.pdb</PackagePath>
+      <Modified>2017-12-22T12:44:45.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-22T12:41:18.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2017-07-12T02:08:38.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\vstest.executionengine.WindowsPhone.dll">
+      <PackagePath>vstest.executionengine.WindowsPhone.dll</PackagePath>
+      <Modified>2016-07-26T21:22:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\vstest_executionengine_platformbridge.dll">
+      <PackagePath>vstest_executionengine_platformbridge.dll</PackagePath>
+      <Modified>2016-07-26T21:22:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc\vstest_executionengine_platformbridge.winmd">
+      <PackagePath>vstest_executionengine_platformbridge.winmd</PackagePath>
+      <Modified>2016-07-26T21:22:38.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Midi.GmDls\10.0.16299.0\">
+      <Name>Microsoft.Midi.GmDls</Name>
+      <Version>1.0.0.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Midi.GmDls, MinVersion=1.0.0.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Midi.GmDls\10.0.16299.0\.\Appx\Neutral\MidiVoices.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.110\14.0\">
+      <Name>Microsoft.VCLibs.110.00.UWPDesktop</Name>
+      <Version>11.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.UWPDesktop, MinVersion = 11.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.110\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.11.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.110\14.0\">
+      <Name>Microsoft.VCLibs.110.00.UWPDesktop</Name>
+      <Version>11.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.UWPDesktop, MinVersion = 11.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.110\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.11.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.120\14.0\">
+      <Name>Microsoft.VCLibs.120.00.UWPDesktop</Name>
+      <Version>12.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.UWPDesktop, MinVersion = 12.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.120\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.120\14.0\">
+      <Name>Microsoft.VCLibs.120.00.UWPDesktop</Name>
+      <Version>12.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.UWPDesktop, MinVersion = 12.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop.120\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

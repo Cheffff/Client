@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x86\Release\PassportLogin_1.0.0.0_x86.appx
+SymbolPackage=C:\Users\Nabil\Desktop\v1\PassportLogin\AppPackages\PassportLogin_1.0.0.0_Test\PassportLogin_1.0.0.0_x86.appxsym

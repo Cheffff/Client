@@ -1,1 +1,0 @@
-C:\Users\Nabil\Documents\Visual Studio 2015\Projects\HelloWorld(blank)\HelloWorld(blank)\HelloWorld(blank).csproj;x64
