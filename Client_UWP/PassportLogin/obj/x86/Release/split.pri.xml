@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="9f63445f-1b5f-4a39-b512-5628b3960b1d" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PassportLogin.xr.xml" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/PassportLogin.xr.xml">
+				<Candidate type="Path">
+					<Value>PassportLogin.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="2018_logo_VirtualDeck .png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/2018_logo_VirtualDeck .png">
+					<Candidate type="Path">
+						<Value>Assets\2018_logo_VirtualDeck .png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="585e4bf3cb11b227491c339a.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/585e4bf3cb11b227491c339a.png">
+					<Candidate type="Path">
+						<Value>Assets\585e4bf3cb11b227491c339a.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="car.jpg" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/car.jpg">
+					<Candidate type="Path">
+						<Value>Assets\car.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="carte.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/carte.png">
+					<Candidate type="Path">
+						<Value>Assets\carte.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="chess_image.jpg" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/chess_image.jpg">
+					<Candidate type="Path">
+						<Value>Assets\chess_image.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="echec.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/echec.png">
+					<Candidate type="Path">
+						<Value>Assets\echec.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icojam_blue_bits_warning-0.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/icojam_blue_bits_warning-0.png">
+					<Candidate type="Path">
+						<Value>Assets\icojam_blue_bits_warning-0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo_eip.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/logo_eip.png">
+					<Candidate type="Path">
+						<Value>Assets\logo_eip.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="HTML">
+				<NamedResource name="test.html" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/HTML/test.html">
+					<Candidate type="Path">
+						<Value>HTML\test.html</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Pages">
+				<NamedResource name="Compte.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/Compte.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DL_card.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/DL_card.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DL_chess.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/DL_chess.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="help.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/help.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Insciption.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/Insciption.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Jeu.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/Jeu.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="List_game.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/List_game.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Menu.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/Menu.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="toto.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Pages/toto.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Style">
+				<NamedResource name="MainPageStyle.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Style/MainPageStyle.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="Login.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Views/Login.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PassportRegister.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Views/PassportRegister.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UserSelection.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Views/UserSelection.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Welcome.xbf" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/Views/Welcome.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://9f63445f-1b5f-4a39-b512-5628b3960b1d/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

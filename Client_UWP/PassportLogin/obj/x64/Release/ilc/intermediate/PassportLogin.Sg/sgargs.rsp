@@ -1,0 +1,12 @@
+/ref:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\in"
+/ref:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\tools\csc"
+/out:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\PassportLogin.Sg"
+"@C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\PassportLogin.Sg\ComputedSerializationInput.txt"

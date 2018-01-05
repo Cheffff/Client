@@ -1,0 +1,5 @@
+Microsoft.VisualStudio.TestPlatform.ObjectModel.resources, Version=14.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.fr.resources
+  Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.fr.resources
+  Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.fr.resources
+  Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.fr.resources

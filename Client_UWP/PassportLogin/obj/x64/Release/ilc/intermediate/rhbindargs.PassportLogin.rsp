@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Nabil\.nuget\packages\microsoft.net.native.compiler\2.0.2\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\MDIL\PassportLogin.mdilexe"
+"/i:C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\Native\PassportLogin.exe"
+"/pdbAltPath:C:\Users\Nabil\Desktop\v1\PassportLogin\bin\x64\Release\ilc"
+"/res:C:\Users\Nabil\Desktop\v1\PassportLogin\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Nabil\.nuget\packages\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
